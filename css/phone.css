@@ -1,0 +1,53 @@
+#navbar {
+	flex-direction: column;
+	height: 165px;
+}
+#navlist {
+	flex-wrap: wrap;
+	left: 0px;
+}
+#sitelogo img {
+	left: 0px;
+}
+#navbar li {
+	padding: 0px;
+	margin: 5px;
+}
+#home {
+    margin: 170px 0px;
+    margin-bottom: 40px;
+}
+#home::before{
+    height: 85vh;
+}
+
+#home h1 {
+	font-size: 1.8rem;
+}
+#home p {
+	margin: 0px 70px;
+}
+h2 {
+	font-size: 1.5rem;
+}
+.serviceItem {
+	width: 90vw;
+	margin: 5px;
+}
+#client {
+	height: 20vh;
+}
+.clientLogo {
+	margin: 15px;
+}
+#contact {
+	height: 85vh;
+}
+
+#contact div input, textarea{
+    width: 80vw;
+}
+textarea{
+    height: 120px;
+}
+

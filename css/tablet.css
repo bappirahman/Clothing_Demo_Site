@@ -1,0 +1,19 @@
+#home::before{
+    height: 75vh;
+}
+/* Service Box  */
+#serviceBox{
+    flex-direction: column;
+}
+/* Services Items  */
+.serviceItem{
+    width: 85vw;
+    box-sizing: border-box;
+   
+}
+#client{
+    height: 30vh;
+}
+#contact{
+    height: 80vh;
+}
